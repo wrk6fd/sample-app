@@ -1,0 +1,62 @@
+.todoapp {
+  margin: 0 auto;
+  text-align: center;
+  width: 650px;
+}
+
+header {
+  padding: 24px;
+}
+
+h1 {
+  font-size: 32px;
+  padding: 24px;
+}
+
+.new-todo {
+  background: transparent;
+  border: none;
+  border-bottom: 2px solid #789dfb;
+  color: white;
+
+  padding: 6px;
+  width: 75%;
+}
+
+.main {
+  text-align: left;
+  margin: 0 auto;
+  width: 50%;
+}
+
+ul.todo-list {
+  list-style: none;
+}
+
+li {
+  padding: 6px;
+}
+
+label {
+  height: 16px;
+  line-height: 16px;
+  width: 85%;
+}
+
+button.destroy {
+  background-color: red;
+  border: 2px solid lightcoral;
+  border-radius: 5px;
+  float: right;
+  line-height: 24px;
+
+  height: 24px;
+  width: 24px;
+}
+
+footer {
+  margin: 48px;
+}
+
+
+
